@@ -1,4 +1,4 @@
-# fish-with-damn-guns
+# Fish with damn guns
 A game we made  
 # Opening/Building
 This is a Godot project, open it in version v4.4.1  
